@@ -1,2 +1,2 @@
-# CTEM
-Code for Continuous-time edge modelling using non-parametric point processes (NeurIPS-21)
+Please run NP_PP.py, NP_HP.py NP_HP_C.py for the corresponding models. 
+
